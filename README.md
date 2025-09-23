@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://placehold.co/1200x400/000000/FFFFFF/png?text=Vaiswap-Lab-Ecosystem+🌌" alt="Vaiswap-Lab-Ecosystem Banner" />
+  <img src="https://github.com/Vaiswap-Lab-Ecosystem/Vaiswap-Lab-Ecosystem/blob/2aa926ff87392e53f2936fd160713518d0cc7aee/Vaiswap-Lab-Ecosystem.png" alt="Vaiswap-Lab-Ecosystem Banner" />
 </p>
 
 # 🌌 Vaiswap-Lab-Ecosystem  
