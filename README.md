@@ -6,7 +6,7 @@
 ## 🚀 Vision  
 **Vaiswap-Lab-Ecosystem** is the home of all projects, extensions, and community-driven modules that expand the **Vaiswap Protocol** into a thriving **Meta-Fi Universe**.  
 
-While [Vaiswap-Lab](https://github.com/Vaiswap-Lab) focuses on the **core DeFi protocol** built on Solana ⚡, the Ecosystem organization is dedicated to:  
+While [Vaiswap](https://github.com/Vaiswap) focuses on the **core DeFi protocol** built on Solana ⚡, the Ecosystem organization is dedicated to:  
 
 - 🌍 Building bridges between finance, NFTs, gaming, RWAs, and culture.  
 - 🧠 Accelerating innovation with open-source SDKs, dApps, and integrations.  
