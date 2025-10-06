@@ -1,10 +1,10 @@
 
 
-# 🌌 Vaiswap-Lab-Ecosystem  
+# 🌌 Vaiswap-Ecosystem  
 *The Immortal Meta-Fi Universe Built Around Vaiswap*  
 
 ## 🚀 Vision  
-**Vaiswap-Lab-Ecosystem** is the home of all projects, extensions, and community-driven modules that expand the **Vaiswap Protocol** into a thriving **Meta-Fi Universe**.  
+**Vaiswap-Ecosystem** is the home of all projects, extensions, and community-driven modules that expand the **Vaiswap Protocol** into a thriving **Meta-Fi Universe**.  
 
 While [Vaiswap](https://github.com/Vaiswap) focuses on the **core DeFi protocol** built on Solana ⚡, the Ecosystem organization is dedicated to:  
 
@@ -68,7 +68,7 @@ Start by checking out our repos, reading the docs, and joining the community.
 ---
 
 ## 🌟 Ecosystem Promise  
-**Vaiswap-Lab-Ecosystem** is not just infrastructure — it is a living, breathing Meta-Fi world:  
+**Vaiswap-Ecosystem** is not just infrastructure — it is a living, breathing Meta-Fi world:  
 
 - Open 🔓  
 - Cross-chain 🌍  
